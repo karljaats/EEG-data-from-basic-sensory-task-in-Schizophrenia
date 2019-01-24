@@ -19,6 +19,15 @@ python -m pip install numpy
 jupyter notebook
 ```
 
+After the environment is set up, create "data" folder in project folder, download ***demographic.csv*** and ***ERPdata.csv*** from [Kaggle competition data](https://www.kaggle.com/broach/button-tone-sz), and put them into data folder.
+
+Or change read_csv calls if you prefer some other folder :   
+```python
+demo = pd.read_csv("data/demographic.csv")
+demo.columns = [col.replace(' ', '') for col in demo.columns]
+erp_data = pd.read_csv("data/ERPdata.csv")
+```
+
 ## References
 
 ### Idea
