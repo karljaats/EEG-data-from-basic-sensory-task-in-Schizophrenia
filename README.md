@@ -47,7 +47,7 @@ Our motor actions are preceded by a corollary discharge of the expected sensatio
 
 ### Project    
 We tried to replicate the results gotten by [Judith M. Ford et al., 2013](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4059422/).   
-In was mentioned in that research paper that during talking patients with schizophrenia show less evidence of pretalking activity and less suppression of the speech sound. They tried to replicate the same effect with pressing a button followed by a tone. Their research included 26 schizophrenia patients and 22 healthy control subjects.    
+In was mentioned in that research paper that during talking patients with schizophrenia show less evidence of pretalking activity and less suppression of the speech sound. They tried to replicate the same effect with pressing a button followed by a tone. Their research included 26 schizophrenia patients and 22 healthy control subjects.   
 
 ### Data analysis
 The data is gotten from [Kaggle](https://www.kaggle.com/broach/button-tone-sz). We use ERP data from 9 electrodes from 32 control subjects and 49 schizophrenia patients.   
