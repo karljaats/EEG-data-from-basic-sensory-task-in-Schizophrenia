@@ -11,9 +11,15 @@ Install python, jupyter notebook and the following modules
 pip install jupyter
 
 # In project folder:
+Main functionality:
 python -m pip install matplotlib
 python -m pip install pandas
-python -m pip install numpy
+python -m pip install numpy   
+For ANOVA:
+python -m pip install statsmodels
+python -m pip install scipy
+python -m pop install researchpy
+! after installing statsmodels jupyter kernel wants a restart !
 
 # Run notebook:
 jupyter notebook
