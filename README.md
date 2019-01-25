@@ -39,7 +39,8 @@ erp_data = pd.read_csv("data/ERPdata.csv")
 ### Idea
 
 - [Kaggle competition](https://www.kaggle.com/broach/button-tone-sz/home)  
-- [Code references](https://www.kaggle.com/broach/replicating-did-i-do-that-paper-analyses-with-r)   
+- [Code references](https://www.kaggle.com/broach/replicating-did-i-do-that-paper-analyses-with-r)  
+- [ANOVA tutorial](https://pythonfordatascience.org/anova-python/) 
 ### Research papers
 - [Did I Do That? Abnormal Predictive Processes in Schizophrenia When Button Pressing to Deliver a Tone](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4059422/) 
 - [Using concurrent EEG and fMRI to probe the state of the brain in schizophrenia](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5008052/)  
